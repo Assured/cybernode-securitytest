@@ -14,10 +14,10 @@ Notera att detta är en nystartad idé som en del av Temagruppen säkerhetstest 
 
 ### Beställare
 
-[Leverantörsval](Beställare/Leverantörsval.md)
-[Certifikat](Beställare/Certifikat.md)
-[Testval](Beställare/Testval.md)
-[Leverantörsval](Beställare/Leverantörsval.md)
+- [Leverantörsval](Beställare/Leverantörsval.md)
+- [Certifikat](Beställare/Certifikat.md)
+- [Testval](Beställare/Testval.md)
+- [Leverantörsval](Beställare/Leverantörsval.md)
 
 ### Utövare
 
